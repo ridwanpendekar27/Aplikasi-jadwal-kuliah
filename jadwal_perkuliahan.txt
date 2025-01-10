@@ -1,6 +1,0 @@
-
-1, 2, 2, 2, 2, 2, 2, 2
-2, 2, 2, 2, 2, 2, 2, 2
-1, 23, 23, 23, 33, 33, 33, 33
-2, 2t, algoritma, senin, 23:00, 00:00, d1, diki
-1, 3T, Aplikasi mobile, jumat, 07:30, 09:30, lab1, ibu risna
